@@ -39,10 +39,12 @@ To create the solid model from given drawing and section the solid model
 
 ## INPUT:
 
-![image](https://github.com/Drcatassistant/EX-No.4.2.-CUT-SECTION-OF-SOLIDS/assets/144364462/4cc4f836-bde7-4b03-8af4-f7053a16920c)
+![image](https://github.com/Drcatassistant/EX-No.4.2.-CUT-SECTION-OF-SOLIDS/assets/144364462/15104555-b65d-4626-9541-a635ee14cf92)
 
 
 ## OUTPUT:
+
+![image](https://github.com/Drcatassistant/EX-No.4.2.-CUT-SECTION-OF-SOLIDS/assets/144364462/4cc4f836-bde7-4b03-8af4-f7053a16920c)
 
 ## RESULT:
 Thus, the cut section for solid model is created.
